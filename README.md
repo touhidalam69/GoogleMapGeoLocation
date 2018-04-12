@@ -1,6 +1,5 @@
 # GoogleMapGeoLocation
 
-Usages
 This can be used on web applications or websites. A user can find his/her current location when s/he visits this web application.
 
 Installation Steps
